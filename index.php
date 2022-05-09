@@ -10,18 +10,18 @@
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="home.html">Hola<span class="sr-only"></span></a>
+          <a class="nav-link" href="#">Hola<span class="sr-only"></span></a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="blog.html">Texto<span class="sr-only"></span></a>
+          <a class="nav-link" href="#">Texto<span class="sr-only"></span></a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="pricing.html" tabindex="-1">Videos</a>
+          <a class="nav-link" href="#" tabindex="-1">Videos</a>
         </li>
       </ul>
     </div>
   </nav>
-    <h1>hola buenas tardes</h1>
+    
 </body>
 <?php get_footer();
 ?>
