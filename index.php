@@ -22,9 +22,7 @@
     </div>
   </nav>
     <body>
-        <div class="fondo">
-            <h1>azul</h1>
-</div>
+      
 </body>
 <?php get_footer();
 ?>

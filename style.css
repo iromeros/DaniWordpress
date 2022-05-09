@@ -10,7 +10,15 @@ Tags: dani, azul, langostino.
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
-
-.fondo {
-   background-color: blue;
+/*
+body {
+    background-image: url('./img/peakpx.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+}
+*/
+body {
+background-image: radial-gradient(red, green, blue);
 }
