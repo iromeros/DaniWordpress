@@ -22,7 +22,12 @@
     </div>
   </nav>
     <body>
-      
+    <style type="text/css">
+body
+{
+background-image:url('<?php echo get_theme_file_uri("/img/peakpx.jpg")  ?>');
+}
+</style>
 </body>
 <?php get_footer();
 ?>
