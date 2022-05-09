@@ -12,9 +12,5 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 body {
-    background-image: url('./img/peakpx.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
-    text-align: center;
+   background-color: blue;
 }
