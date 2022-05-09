@@ -1,6 +1,6 @@
 <?php get_header();
 ?>
-<body>
+
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <a class="navbar-brand" href="index.html">Navbar básico</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
@@ -21,7 +21,7 @@
       </ul>
     </div>
   </nav>
-    
+    <body>
 </body>
 <?php get_footer();
 ?>
