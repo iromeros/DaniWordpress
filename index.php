@@ -1,7 +1,7 @@
 <?php get_header();
 ?>
 <body>
-<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
     <a class="navbar-brand" href="index.html">Navbar básico</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
       aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,18 +21,15 @@
       </ul>
     </div>
   </nav>
+
+    <main>
+
+    <h1>Hola mundo</h1>
+
+    </main>
     
-    <style type="text/css">
-body
-{
-background-image:url('<?php echo get_theme_file_uri("/img/fondo.jpg")  ?>');
-background-size: cover;
-background-repeat: no-repeat;
-height: 100vh;
-text-align: center;
-}
-</style>
-<h1>Hola mundo</h1>
+
+
 </body>
 <?php get_footer();
 ?>
