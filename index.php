@@ -26,9 +26,9 @@
 body
 {
 background-image:url('<?php echo get_theme_file_uri("/img/peakpx.jpg")  ?>');
-background-size: cover;
+background-size: 10%;
 background-repeat: no-repeat;
-height: 50vh;
+height: 100vh;
 text-align: center;
 }
 </style>
