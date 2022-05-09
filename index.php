@@ -32,6 +32,7 @@ height: 100vh;
 text-align: center;
 }
 </style>
+<h1>Hola mundo</h1>
 </body>
 <?php get_footer();
 ?>
