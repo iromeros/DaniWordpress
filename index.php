@@ -26,7 +26,7 @@
 body
 {
 background-image:url('<?php echo get_theme_file_uri("/img/fondo.jpg")  ?>');
-background-size: 100%;
+background-size: cover;
 background-repeat: no-repeat;
 height: 100vh;
 text-align: center;
