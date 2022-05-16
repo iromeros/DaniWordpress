@@ -10,7 +10,7 @@
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="blog.php">Blog<span class="sr-only"></span></a>
+          <a class="nav-link" href="<?php echo site_url("blog.php");?>">Blog<span class="sr-only"></span></a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="galeria.php">Galeria<span class="sr-only"></span></a>
