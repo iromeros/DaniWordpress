@@ -13,7 +13,7 @@
           <a class="nav-link" href="<?php echo site_url("blog.php");?>">Blog<span class="sr-only"></span></a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="galeria.php">Galeria<span class="sr-only"></span></a>
+          <a class="nav-link" href="<?php echo site_url("galeria.php");?>">Galeria<span class="sr-only"></span></a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="#" tabindex="-1">Nada</a>
