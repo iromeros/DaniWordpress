@@ -56,7 +56,7 @@
           </div>
           <div class="col">
             <div class="card shadow-sm">
-              <img src="<?php echo get_theme_file_uri("/img/familia.jneg")?>" class="bd-placeholder-img card-img-top" width="100%" height="225" role="img"
+              <img src="<?php echo get_theme_file_uri("/img/familia.jpeg")?>" class="bd-placeholder-img card-img-top" width="100%" height="225" role="img"
                 aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
               <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
               </svg>
@@ -66,7 +66,7 @@
           </div>
           <div class="col">
             <div class="card shadow-sm">
-              <img src="<?php echo get_theme_file_uri("/img/purpura.png")?>" class="bd-placeholder-img card-img-top" width="100%" height="225" role="img"
+              <img src="<?php echo get_theme_file_uri("/img/purpura.jpeg")?>" class="bd-placeholder-img card-img-top" width="100%" height="225" role="img"
                 aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
               <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
               </svg>
