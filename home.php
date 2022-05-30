@@ -1,5 +1,7 @@
 <?php get_header();
 ?>
+
+ESTA ES LA PLANTILLA PARA EL BLOG
 <style type="text/css">
         body{
             background-image:url('<?php echo get_theme_file_uri("/img/fondo.jpg")  ?>');
@@ -14,13 +16,13 @@ if ( have_posts() ) {
 	while ( have_posts() ) {
 		the_post(); 
         ?>
-        <h1>
+        <a href="<?php the_permalink();?>"><h1>
             <?php
         the_title();
         ?>
-        </h1>
+        </h1></a>
         <?php
-        the_content();
+        the_excerpt();
 	} 
 } 
 ?>
