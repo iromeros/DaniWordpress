@@ -12,5 +12,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 body{
     color: red;
-    background-color: yellow;
+}
+
+.container {
+    background-color: rgba(0, 100, 50, 0.5);
 }
