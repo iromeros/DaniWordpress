@@ -123,48 +123,7 @@
             <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout.</p>
           </article>
     
-          <article class="blog-post">
-            <h2 class="blog-post-title mb-1">Another blog post</h2>
-            <p class="blog-post-meta">December 23, 2020 by <a href="#">Jacob</a></p>
-    
-            <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
-            <blockquote>
-              <p>Longer quote goes here, maybe with some <strong>emphasized text</strong> in the middle of it.</p>
-            </blockquote>
-            <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
-            <h3>Example table</h3>
-            <p>And don't forget about tables in these posts:</p>
-            
-            <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout.</p>
-          </article>
-    
-          <article class="blog-post">
-            <h2 class="blog-post-title mb-1">New feature</h2>
-            <p class="blog-post-meta">December 14, 2020 by <a href="#">Chris</a></p>
-    
-            <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
-            <ul>
-              <li>First list item</li>
-              <li>Second list item with a longer description</li>
-              <li>Third list item to close it out</li>
-            </ul>
-            <p>This is some additional paragraph placeholder content. It's a slightly shorter version of the other highly repetitive body text used throughout.</p>
-          </article>
-    
-          <nav class="blog-pagination" aria-label="Pagination">
-            <a class="btn btn-outline-primary rounded-pill" href="#">Older</a>
-            <a class="btn btn-outline-secondary rounded-pill disabled">Newer</a>
-          </nav>
-    
-        </div>
-    
-        <div class="col-md-4">
-          <div class="position-sticky" style="top: 2rem;">
-            <div class="p-4 mb-3 bg-light rounded">
-              <h4 class="fst-italic">About</h4>
-              <p class="mb-0">Customize this section to tell your visitors a little bit about your publication, writers, content, or something else entirely. Totally up to you.</p>
-            </div>
-    
+          
             <div class="p-4">
               <h4 class="fst-italic">Archives</h4>
               <ol class="list-unstyled mb-0">
