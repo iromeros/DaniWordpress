@@ -15,7 +15,7 @@
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
           <div class="col">
             <div class="card shadow-sm">
-              <img src="./img/albedo.jpg" class="bd-placeholder-img card-img-top" width="100%" height="225" role="img"
+              <img src="('<?php echo get_theme_file_uri("/img/200px-Fuecoco.png.jpg")?>" class="bd-placeholder-img card-img-top" width="100%" height="225" role="img"
                 aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
               <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
               </svg>
@@ -75,32 +75,7 @@
             </div>
           </div>
 
-          <div class="col">
-            <div class="card shadow-sm">
-              <img src="./img/sango.jpg" class="bd-placeholder-img card-img-top" width="100%" height="225" role="img"
-                aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
-              </svg>
-
-
-            </div>
-          </div>
-          <div class="col">
-            <div class="card shadow-sm">
-              <img src="./img/ilustraciones.jpg" class="bd-placeholder-img card-img-top" width="100%" height="225" role="img"
-                aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
-              </svg>
-
-
-            </div>
-          </div>
-          <div class="col">
-            <div class="card shadow-sm">
-              <img src="./img/armas.jpg" class="bd-placeholder-img card-img-top" width="100%" height="225" role="img"
-                aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <rect width="100%" height="100%" fill="#55595c" /><text x="50%" y="50%" fill="#eceeef" dy=".3em"></text>
-              </svg>
+        
             </div>
           </div>
         </div>
