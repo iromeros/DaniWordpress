@@ -101,7 +101,7 @@ if ( have_posts() ) {
         the_excerpt();
 	} 
 }          
-    
+    ?>
             <div class="p-4">
               <h4 class="fst-italic">Archives</h4>
               <ol class="list-unstyled mb-0">
